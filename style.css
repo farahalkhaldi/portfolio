@@ -1,0 +1,50 @@
+
+body {
+
+  background: DarkGray ;
+
+
+
+}
+
+h1 {
+    text-align: center;
+    text-decoration: underline;
+}
+
+h2 ,h3 {
+
+text-decoration: underline;
+
+
+}
+
+
+.Who{
+
+  background-position: left;
+  background-color: gray;
+  color: white;
+  border: 2px solid black;
+
+}
+
+.GitHub{
+
+  background-position: left;
+  background-color: gray;
+  color: white;
+  border: 2px solid black;
+
+
+}
+
+.hobbies{
+
+background-position: left;
+background-color: gray;
+color: white;
+border: 2px solid black;
+
+
+}
